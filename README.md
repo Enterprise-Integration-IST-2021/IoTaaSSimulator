@@ -3,7 +3,9 @@ IE 2020/2021 tool to simulate the Activity Radio Network for IoTaaS, using Kafka
 
 Verify if JAVA 8 is available using the command: 
 
+´´´
 java -version
+´´´´
 
 Then, to execute the generator of messages use the following command from the target directory:
 
