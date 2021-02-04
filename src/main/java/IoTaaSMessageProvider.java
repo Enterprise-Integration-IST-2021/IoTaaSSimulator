@@ -332,7 +332,7 @@ public class IoTaaSMessageProvider {
 				+ "--hlr-table <table> "
 				+ "--throughput <value> "
 				+ "--typeMessage <value> "
-				+ "--statusSIMCARD <on|off>"
+				+ "--statusSIMCARD <on|off> "
 				+ "--aliens <on|off>\n"
 				+ "\n"
 				+ "where, \n"
